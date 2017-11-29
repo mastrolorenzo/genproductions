@@ -101,12 +101,12 @@ RUNHOME=`pwd`
 
 LOGFILE=${RUNHOME}/${name}.log
 LOGFILE_NAME=${LOGFILE/.log/}
-if [ "${name}" != "interactive" ]; then
-  mkfifo ${LOGFILE}.pipe
-  tee < ${LOGFILE}.pipe ${LOGFILE} &
-  exec &> ${LOGFILE}.pipe
-  rm ${LOGFILE}.pipe
-fi
+#Luca if [ "${name}" != "interactive" ]; then
+#Luca   mkfifo ${LOGFILE}.pipe
+#Luca   tee < ${LOGFILE}.pipe ${LOGFILE} &
+#Luca   exec &> ${LOGFILE}.pipe
+#Luca   rm ${LOGFILE}.pipe
+#Luca fi
 
 echo "Starting job on " `date` #Only to display the starting of production date
 echo "Running on " `uname -a` #Only to display the machine where the job is running
@@ -739,9 +739,9 @@ fi
 
 echo "Saving log file(s)"
 #copy log file
-for i in ${LOGFILE_NAME}*.log; do 
-    cp $i ${i/$LOGFILE_NAME/gridpack_generation}; 
-done
+#Luca for i in ${LOGFILE_NAME}*.log; do 
+#Luca     cp $i ${i/$LOGFILE_NAME/gridpack_generation}; 
+#Luca done
 
 
 
