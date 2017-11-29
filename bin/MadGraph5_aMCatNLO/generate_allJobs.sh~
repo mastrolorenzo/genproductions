@@ -1,0 +1,50 @@
+./submit_gridpack_generation.sh 15000 15000 1nh BulkGraviton_hh_GF_HH_narrow_M450 cards/production/pre2017/13TeV/exo_diboson/Spin-2/BulkGraviton_hh_narrow/BulkGraviton_hh_GF_HH_narrow_M450 8nh
+./submit_gridpack_generation.sh 15000 15000 1nh BulkGraviton_hh_GF_HH_narrow_M400 cards/production/pre2017/13TeV/exo_diboson/Spin-2/BulkGraviton_hh_narrow/BulkGraviton_hh_GF_HH_narrow_M400 8nh
+./submit_gridpack_generation.sh 15000 15000 1nh BulkGraviton_hh_GF_HH_narrow_M350 cards/production/pre2017/13TeV/exo_diboson/Spin-2/BulkGraviton_hh_narrow/BulkGraviton_hh_GF_HH_narrow_M350 8nh
+./submit_gridpack_generation.sh 15000 15000 1nh BulkGraviton_hh_GF_HH_narrow_M300 cards/production/pre2017/13TeV/exo_diboson/Spin-2/BulkGraviton_hh_narrow/BulkGraviton_hh_GF_HH_narrow_M300 8nh
+./submit_gridpack_generation.sh 15000 15000 1nh BulkGraviton_hh_GF_HH_narrow_M290 cards/production/pre2017/13TeV/exo_diboson/Spin-2/BulkGraviton_hh_narrow/BulkGraviton_hh_GF_HH_narrow_M290 8nh
+./submit_gridpack_generation.sh 15000 15000 1nh BulkGraviton_hh_GF_HH_narrow_M280 cards/production/pre2017/13TeV/exo_diboson/Spin-2/BulkGraviton_hh_narrow/BulkGraviton_hh_GF_HH_narrow_M280 8nh
+./submit_gridpack_generation.sh 15000 15000 1nh BulkGraviton_hh_GF_HH_narrow_M270 cards/production/pre2017/13TeV/exo_diboson/Spin-2/BulkGraviton_hh_narrow/BulkGraviton_hh_GF_HH_narrow_M270 8nh
+./submit_gridpack_generation.sh 15000 15000 1nh BulkGraviton_hh_GF_HH_narrow_M260 cards/production/pre2017/13TeV/exo_diboson/Spin-2/BulkGraviton_hh_narrow/BulkGraviton_hh_GF_HH_narrow_M260 8nh
+./submit_gridpack_generation.sh 15000 15000 1nh BulkGraviton_hh_GF_HH_narrow_M250 cards/production/pre2017/13TeV/exo_diboson/Spin-2/BulkGraviton_hh_narrow/BulkGraviton_hh_GF_HH_narrow_M250 8nh
+./submit_gridpack_generation.sh 15000 15000 1nh BulkGraviton_hh_GF_HH_narrow_M800 cards/production/pre2017/13TeV/exo_diboson/Spin-2/BulkGraviton_hh_narrow/BulkGraviton_hh_GF_HH_narrow_M800 8nh
+./submit_gridpack_generation.sh 15000 15000 1nh BulkGraviton_hh_GF_HH_narrow_M750 cards/production/pre2017/13TeV/exo_diboson/Spin-2/BulkGraviton_hh_narrow/BulkGraviton_hh_GF_HH_narrow_M750 8nh
+./submit_gridpack_generation.sh 15000 15000 1nh BulkGraviton_hh_GF_HH_narrow_M700 cards/production/pre2017/13TeV/exo_diboson/Spin-2/BulkGraviton_hh_narrow/BulkGraviton_hh_GF_HH_narrow_M700 8nh
+./submit_gridpack_generation.sh 15000 15000 1nh BulkGraviton_hh_GF_HH_narrow_M650 cards/production/pre2017/13TeV/exo_diboson/Spin-2/BulkGraviton_hh_narrow/BulkGraviton_hh_GF_HH_narrow_M650 8nh
+./submit_gridpack_generation.sh 15000 15000 1nh BulkGraviton_hh_GF_HH_narrow_M600 cards/production/pre2017/13TeV/exo_diboson/Spin-2/BulkGraviton_hh_narrow/BulkGraviton_hh_GF_HH_narrow_M600 8nh
+./submit_gridpack_generation.sh 15000 15000 1nh BulkGraviton_hh_GF_HH_narrow_M550 cards/production/pre2017/13TeV/exo_diboson/Spin-2/BulkGraviton_hh_narrow/BulkGraviton_hh_GF_HH_narrow_M550 8nh
+./submit_gridpack_generation.sh 15000 15000 1nh BulkGraviton_hh_GF_HH_narrow_M500 cards/production/pre2017/13TeV/exo_diboson/Spin-2/BulkGraviton_hh_narrow/BulkGraviton_hh_GF_HH_narrow_M500 8nh
+./submit_gridpack_generation.sh 15000 15000 1nh BulkGraviton_hh_GF_HH_narrow_M1200 cards/production/pre2017/13TeV/exo_diboson/Spin-2/BulkGraviton_hh_narrow/BulkGraviton_hh_GF_HH_narrow_M1200 8nh
+./submit_gridpack_generation.sh 15000 15000 1nh BulkGraviton_hh_GF_HH_narrow_M1000 cards/production/pre2017/13TeV/exo_diboson/Spin-2/BulkGraviton_hh_narrow/BulkGraviton_hh_GF_HH_narrow_M1000 8nh
+./submit_gridpack_generation.sh 15000 15000 1nh BulkGraviton_hh_GF_HH_narrow_M4500 cards/production/pre2017/13TeV/exo_diboson/Spin-2/BulkGraviton_hh_narrow/BulkGraviton_hh_GF_HH_narrow_M4500 8nh
+./submit_gridpack_generation.sh 15000 15000 1nh BulkGraviton_hh_GF_HH_narrow_M4000 cards/production/pre2017/13TeV/exo_diboson/Spin-2/BulkGraviton_hh_narrow/BulkGraviton_hh_GF_HH_narrow_M4000 8nh
+./submit_gridpack_generation.sh 15000 15000 1nh BulkGraviton_hh_GF_HH_narrow_M3500 cards/production/pre2017/13TeV/exo_diboson/Spin-2/BulkGraviton_hh_narrow/BulkGraviton_hh_GF_HH_narrow_M3500 8nh
+./submit_gridpack_generation.sh 15000 15000 1nh BulkGraviton_hh_GF_HH_narrow_M3000 cards/production/pre2017/13TeV/exo_diboson/Spin-2/BulkGraviton_hh_narrow/BulkGraviton_hh_GF_HH_narrow_M3000 8nh
+./submit_gridpack_generation.sh 15000 15000 1nh BulkGraviton_hh_GF_HH_narrow_M2500 cards/production/pre2017/13TeV/exo_diboson/Spin-2/BulkGraviton_hh_narrow/BulkGraviton_hh_GF_HH_narrow_M2500 8nh
+./submit_gridpack_generation.sh 15000 15000 1nh BulkGraviton_hh_GF_HH_narrow_M2000 cards/production/pre2017/13TeV/exo_diboson/Spin-2/BulkGraviton_hh_narrow/BulkGraviton_hh_GF_HH_narrow_M2000 8nh
+./submit_gridpack_generation.sh 15000 15000 1nh BulkGraviton_hh_GF_HH_narrow_M1800 cards/production/pre2017/13TeV/exo_diboson/Spin-2/BulkGraviton_hh_narrow/BulkGraviton_hh_GF_HH_narrow_M1800 8nh
+./submit_gridpack_generation.sh 15000 15000 1nh BulkGraviton_hh_GF_HH_narrow_M1600 cards/production/pre2017/13TeV/exo_diboson/Spin-2/BulkGraviton_hh_narrow/BulkGraviton_hh_GF_HH_narrow_M1600 8nh
+./submit_gridpack_generation.sh 15000 15000 1nh BulkGraviton_hh_GF_HH_narrow_M1400 cards/production/pre2017/13TeV/exo_diboson/Spin-2/BulkGraviton_hh_narrow/BulkGraviton_hh_GF_HH_narrow_M1400 8nh
+./submit_gridpack_generation.sh 15000 15000 1nh BulkGraviton_hh_GF_HH_narrow_M900 cards/production/pre2017/13TeV/exo_diboson/Spin-2/BulkGraviton_hh_narrow/BulkGraviton_hh_GF_HH_narrow_M900 8nh
+
+
+
+./submit_gridpack_generation.sh 15000 15000 1nh RSGraviton_hh_narrow_M270
+./submit_gridpack_generation.sh 15000 15000 1nh RSGraviton_hh_narrow_M260
+./submit_gridpack_generation.sh 15000 15000 1nh RSGraviton_hh_narrow_M400
+./submit_gridpack_generation.sh 15000 15000 1nh RSGraviton_hh_narrow_M350
+./submit_gridpack_generation.sh 15000 15000 1nh RSGraviton_hh_narrow_M300
+./submit_gridpack_generation.sh 15000 15000 1nh RSGraviton_hh_narrow_M450
+./submit_gridpack_generation.sh 15000 15000 1nh RSGraviton_hh_narrow_M550
+./submit_gridpack_generation.sh 15000 15000 1nh RSGraviton_hh_narrow_M500
+./submit_gridpack_generation.sh 15000 15000 1nh RSGraviton_hh_narrow_M650
+./submit_gridpack_generation.sh 15000 15000 1nh RSGraviton_hh_narrow_M600
+./submit_gridpack_generation.sh 15000 15000 1nh RSGraviton_hh_narrow_M800
+./submit_gridpack_generation.sh 15000 15000 1nh RSGraviton_hh_narrow_M700
+./submit_gridpack_generation.sh 15000 15000 1nh RSGraviton_hh_narrow_M900
+./submit_gridpack_generation.sh 15000 15000 1nh RSGraviton_hh_narrow_M1000
+./submit_gridpack_generation.sh 15000 15000 1nh RSGraviton_hh_narrow_M1200
+./submit_gridpack_generation.sh 15000 15000 1nh RSGraviton_hh_narrow_M1100
+./submit_gridpack_generation.sh 15000 15000 1nh RSGraviton_hh_narrow_M1500
+./submit_gridpack_generation.sh 15000 15000 1nh RSGraviton_hh_narrow_M1300
+./submit_gridpack_generation.sh 15000 15000 1nh RSGraviton_hh_narrow_M2000
